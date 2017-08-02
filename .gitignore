@@ -1,12 +1,6 @@
 
 *.iml
-.idea/.name
-.idea/compiler.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-.idea/vcs.xml
-driver/geckodriver.exe
-driver/chromedriver2.exe
-driver/chromedriver.exe
-target/classes/log4j.properties
+.idea
+driver
+target
+
